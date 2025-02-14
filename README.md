@@ -28,5 +28,11 @@ git clone <repository-url>
 cd Log-Archive-Tool
 ```
 
+## Project Repository
+
+You can find more project details at:
+[https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
+
+
 ## License
 This project is licensed under the MIT License.
